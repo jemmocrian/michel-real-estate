@@ -15,21 +15,18 @@ name    = "About"
 url     = "about"
 weight  = 2
 [[menu.main]]
-name    = "Service"
-url     = "service"
+name    = "Consulting"
+url     = "consulting"
 weight  = 3
 [[menu.main]]
-name    = "Gallery"
-url     = "gallery"
+name    = "Listings"
+url     = "listings"
 weight  = 4
-[[menu.main]]
-name    = "Blog"
-url     = "blog"
-weight  = 5
+
 [[menu.main]]
 name    = "Contact"
 url     = "contact"
-weight  = 6
+weight  = 5
 
 # Site Params
 [params]
@@ -48,18 +45,18 @@ contactFormAction = "#" # contact form works with https://formspree.io
 [params.banner]
 enable  = true
 bgImage = "images/slider.jpg"
-heading = "HI, MY NAME IS JONAITHON & I AM A"
+heading = "HI, MY NAME IS MICHEL & I AM A"
 description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
 # button
 btn     = true
-btnText = "Download More"
-btnURL  = "https://themefisher.com/"
+btnText = "CONTACT ME"
+btnURL  = "https://7evb2fdw-zlzmw.instant.forestry.io/contact/"
 
 # flip text
 [[params.banner.flipText]]
-title   = "DESIGNER"
+title   = "CONSULTANT"
 [[params.banner.flipText]]
-title   = "DEVELOPER"
+title   = "REAL ESTATE AGENT"
 [[params.banner.flipText]]
 title   = "FATHER"
 
