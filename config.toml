@@ -10,23 +10,21 @@ theme = "timer-hugo"
 name    = "Home"
 url     = "/"
 weight  = 1
-[[menu.main]]
-name    = "About"
-url     = "about"
-weight  = 2
+
 [[menu.main]]
 name    = "Consulting"
-url     = "consulting"
-weight  = 3
+url     = "service"
+weight  = 2
+
 [[menu.main]]
 name    = "Listings"
-url     = "listings"
-weight  = 4
+url     = "gallery"
+weight  = 3
 
 [[menu.main]]
 name    = "Contact"
 url     = "contact"
-weight  = 5
+weight  = 4
 
 # Site Params
 [params]
