@@ -1,34 +1,37 @@
 enable  : true
 title   : Offer From Me
 subtitle: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum.
+  If you want to kickstart your career I welcome you to follow my online sales course. 
+  
+  Starting out in the sales profession can be extremely though and daunting. I should know because I have been through it all. When I started out, I didn’t have anyone explaining what to do to get clients and once I was in front of them I wasn’t sure what to say.Looking back I wish I had someone to show how to get to my goals quicker and easy. Had I not wasted my time finding the right path, I would made a lot more money earlier in my career. 
+
 item    :
   - icon  : ion-ios-flask-outline
-    title : Media heading
+    title : Training
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Step-by-step manual
 
   - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+    title : Guidance
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Bi weekly counseling
 
   - icon  : ion-ios-americanfootball-outline
-    title : Free updates
+    title : Tailored Training
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+     Tailor made training
 
   - icon  : ion-ios-keypad-outline
-    title : Solid Support
+    title : Rights
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Objection Handling
 
   - icon  : ion-ios-barcode-outline
-    title : Simple Installation
+    title : Vision
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-  
+      Confidence and Awareness
+
   - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+    title : Persistance
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Cold Calling mastery

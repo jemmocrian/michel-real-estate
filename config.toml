@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.michelrealestate.lu"
 languageCode = "en-us"
 title = "Michel Real Estate | Luxembourg"
 theme = "timer-hugo"
@@ -12,12 +12,12 @@ url     = "/"
 weight  = 1
 
 [[menu.main]]
-name    = "Consulting"
+name    = "Services"
 url     = "service"
 weight  = 2
 
 [[menu.main]]
-name    = "Listings"
+name    = "Gallery"
 url     = "gallery"
 weight  = 3
 
@@ -46,7 +46,8 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable  = true
 bgImage = "images/slider.jpg"
 heading = "HI, MY NAME IS MICHEL & I AM A"
-description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
+description = "Convincing your potential buyers or renters to go with your property is what me and my team do best. Our marketing strategy has proven to be one of the country's most successful." 
+
 # button
 btn     = true
 btnText = "CONTACT ME"
@@ -66,14 +67,14 @@ title   = "FATHER"
 [params.about]
 enable  = true
 title   = "ABOUT ME"
-content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
-image   = "images/about/about.jpg"
+content = "As an investor myself, I can relate to any property owner’s fears and needs. Trust me I have been in your shoes and have seen the worst. Most agents are just agents and want to catch that commission check as fast as possible. My team implements a tailor-made approach and strives to bring results, not empty promisses. Your success is our success, it’s as simple as that."
+image   = "images/about/about.png"
 
 # Call to Action
 [params.cta]
 enable  = true
 title   = "SO WHAT YOU THINK ?"
-content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+content = "It’s my job to be your expert when it comes to selling or renting your property."
 btnText = "Contact me"
 btnURL  = "/contact"
 
@@ -88,5 +89,13 @@ icon = "ion-social-instagram"
 url = "https://www.instagram.com/michelkmiotek/"
 
 [[params.socialIcon]]
-icon = "ion-social-linkedin"
+icon = "ion-home"
 url = "https://www.immotop.lu/estate-agency/michel-real-estate-d42316/index1.html"
+
+[[params.socialIcon]]
+icon = "ion-social-twitter"
+url = "https://twitter.com/KmiotekMichel"
+
+[[params.socialIcon]]
+icon = "ion-play"
+url = "https://www.youtube.com/channel/UCtiB6apwM4CaGiILUm25xSA"
