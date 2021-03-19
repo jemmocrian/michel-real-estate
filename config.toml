@@ -72,7 +72,7 @@ image   = "images/about/about.jpg"
 enable  = true
 title   = "SO WHAT YOU THINK ?"
 content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-btnText = "Contact with me"
+btnText = "Contact me"
 btnURL  = "/contact"
 
 
