@@ -1,24 +1,24 @@
 enable  : true
 title   : WHAT WE LOVE TO DO
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis porro recusandae non quibusdam iure adipisci.
+subtitle: Over the years running a business has thought me to keep things simple and costumer oriented. There’s no need to complicate procedures. Although that might be easier said than done, at Michel Real Estate you won’t deal with a multitude of different agents, secretaries and assistants. You’ll be in direct contact with me whenever and wherever it suits you. Your time is precious. For this simple reason we meet with clients when it fits their schedule, whether at the clients home or workplace, morning, evenings or lunchhours.
 image   : images/team.jpg
 serviceItem :
   - icon  : ion-ios-paper-outline
-    title : BRANDING
+    title : Residential Real Estate
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+     Rental services, new construction, resale of homes, apartments and investment properties.
 
   - icon  : ion-ios-pint-outline
-    title : DESIGN
+    title : Commercial Real Estate
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      Shopping centers, office spaces, retail surfaces, storage units and parking lots.
 
   - icon  : ion-ios-paper-outline
-    title : DEVELOPMENT
+    title : Buyer Consulting
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+    Professional representation for investors, first time home buyers and developers.
 
   - icon  : ion-ios-paper-outline
-    title : THEMEING
+    title : Courses
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      Become a new Real Estate agent, time management mastery, coaching and mentoring.

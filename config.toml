@@ -54,9 +54,11 @@ btnURL  = "https://7evb2fdw-zlzmw.instant.forestry.io/contact/"
 
 # flip text
 [[params.banner.flipText]]
+title   = "REAL ESTATE AGENT"
+[[params.banner.flipText]]
 title   = "CONSULTANT"
 [[params.banner.flipText]]
-title   = "REAL ESTATE AGENT"
+title   = "INVESTOR"
 [[params.banner.flipText]]
 title   = "FATHER"
 
@@ -79,12 +81,12 @@ btnURL  = "/contact"
 # social icon
 [[params.socialIcon]]
 icon = "ion-social-facebook"
-url = "#"
+url = "https://www.facebook.com/Michel.Kmiotek/"
 
 [[params.socialIcon]]
 icon = "ion-social-instagram"
-url = "#"
+url = "https://www.instagram.com/michelkmiotek/"
 
 [[params.socialIcon]]
 icon = "ion-social-linkedin"
-url = "#"
+url = "https://www.immotop.lu/estate-agency/michel-real-estate-d42316/index1.html"
