@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b247cb09-2b0f-4ab6-9159-44e5fa9c592d/deploy-status)](https://app.netlify.com/sites/michelrealestate/deploys)
