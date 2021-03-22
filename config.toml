@@ -1,4 +1,4 @@
-baseURL = "http://www.michelrealestate.lu"
+baseURL = "https://www.michelrealestate.lu"
 languageCode = "en-us"
 title = "Michel Real Estate | Luxembourg"
 theme = "timer-hugo"
