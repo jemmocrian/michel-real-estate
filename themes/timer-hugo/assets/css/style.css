@@ -229,7 +229,7 @@ a:hover {
 }
 
 .navbar .nav-item .nav-link:hover {
-  color: #f317f3 !important;
+  color: #ec008c !important;
 }
 
 .navbar .nav-item:last-child .nav-link {
@@ -333,7 +333,7 @@ a:hover {
 }
 
 #hero-area .btn {
-  background: #e621f8;
+  background: #ec008c;
   border: none;
   color: #fff;
   padding: 20px 35px;
@@ -377,7 +377,7 @@ a:hover {
 #call-to-action .block .btn-contact {
   background: #fff;
   border: 2px solid #fff;
-  color: #e621f8;
+  color: #ec008c;
   padding: 15px 34px;
   margin-top: 20px;
   font-size: 12px;
