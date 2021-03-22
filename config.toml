@@ -51,7 +51,7 @@ description = "Convincing your potential buyers or renters to go with your prope
 # button
 btn     = true
 btnText = "CONTACT ME"
-btnURL  = "https://7evb2fdw-zlzmw.instant.forestry.io/contact/"
+btnURL  = "/contact"
 
 # flip text
 [[params.banner.flipText]]
@@ -75,8 +75,8 @@ image   = "images/about/about.png"
 enable  = true
 title   = "SO WHAT YOU THINK ?"
 content = "It’s my job to be your expert when it comes to selling or renting your property."
-btnText = "Contact me"
-btnURL  = "/contact"
+btnText = "New Listings"
+btnURL  = "https://www.immotop.lu/estate-agency/michel-real-estate-d42316/index1.html"
 
 
 # social icon
