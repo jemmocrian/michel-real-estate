@@ -1278,6 +1278,8 @@ article {
 
 #footer .copyright-design {
   color: #fff;
+  font-size: 13px;
+  margin-bottom: 0;
 }
 
 #footer .copyright a {
